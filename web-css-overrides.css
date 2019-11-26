@@ -1,5 +1,5 @@
 .moduleA.moduleA .ribbon-container {
-  background-image: url(/static/images/module-s-ribbon-right.png) !important;
+  background-image: url(/static/images/module-s-right-ribbon.png) !important;
 }
 
 @media (min-width: 1200px) {
