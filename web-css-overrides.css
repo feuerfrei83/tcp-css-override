@@ -10,6 +10,8 @@
 
 .moduleM.moduleM .imagecategory__list {
   flex-direction: column !important;
+  justify-content: flex-start;
+  margin-right: 8px;
 }
 
 @media (min-width: 375px) and (max-width: 767px) {
