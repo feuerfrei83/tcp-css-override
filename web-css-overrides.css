@@ -1,3 +1,7 @@
+.moduleA.moduleA .ribbon-container {
+  background-image: url(/static/images/module-s-ribbon-right.png) !important;
+}
+
 @media (min-width: 1200px) {
   .moduleM.moduleM .image-items-container-category {
     margin: 25px 18% !important;
