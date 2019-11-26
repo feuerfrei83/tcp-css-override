@@ -73,7 +73,8 @@
   color: #9b9b9b !important;
 }
 
-.moduleQ .moduleQ-header{
+.moduleQ .moduleQ-header,
+.moduleQ .moduleQ-header * {
   font-size: 32px !important;
   font-weight: 900 !important;
   line-height: 1.21 !important;
@@ -81,7 +82,8 @@
   color: #e2499b !important;
 }
 
-.moduleQ .moduleQ-promo {
+.moduleQ .moduleQ-promo,
+.moduleQ .moduleQ-promo * {
   margin: 0 auto !important;
   font-size: 15px !important;
   line-height: 1.36 !important;
@@ -89,7 +91,8 @@
   color: #003057 !important;
 }
 
-.moduleQ .moduleQ-promo-header {
+.moduleQ .moduleQ-promo-header,
+.moduleQ .moduleQ-promo-header * {
   font-size: 48px !important;
   font-weight: 900 !important;
   line-height: 1.21 !important;
@@ -122,7 +125,8 @@
     right: 14%;
   }
 
-  .moduleQ .moduleQ-header{
+  .moduleQ .moduleQ-header,
+  .moduleQ .moduleQ-header * {
     font-size: 48px !important;
     font-weight: 900 !important;
     line-height: 1.21 !important;
@@ -130,7 +134,8 @@
     color: #e2499b !important;
   }
 
-  .moduleQ.moduleQ .moduleQ-promo {
+  .moduleQ.moduleQ .moduleQ-promo, 
+  .moduleQ.moduleQ .moduleQ-promo * {
     width: 423px !important;
     margin: 0 auto !important;
     font-size: 22px !important;
