@@ -7,3 +7,9 @@
 .moduleM.moduleM .imagecategory__list {
   flex-direction: column !important;
 }
+
+@media (min-width: 375px) and (max-width: 767px) {
+  .moduleM.moduleM .imagecategory__list img {
+    width: 115px !important; 
+  }
+}
