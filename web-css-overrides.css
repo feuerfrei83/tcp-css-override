@@ -1,10 +1,10 @@
 .moduleA .link-text[data-locator="moduleA_header_text_0_0"]{
-  font-size: 64px;
+  font-size: 32px;
   font-weight: 900;
 }
 
 .moduleA .link-text[data-locator="moduleA_header_text_0_0_1"]{
-  font-size: 28px;
+  font-size: 16px;
   font-weight: 500;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .moduleN .ModuleN-heading .spaced_text {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 900;
   color: #003057;
   line-height: 1.21;
@@ -50,7 +50,7 @@
   position: relative;
 }
 
-.moduleN .button-list-wrapper {
+.moduleN .ModuleN_Button .button-list-wrapper {
   padding: 11px;
 }
 
@@ -61,6 +61,90 @@
 
 .moduleN .link-button[data-locator="moduleN_cta_links_1-link"] {
   display: none;
+}
+
+
+.moduleN .link-button[data-locator="moduleN_cta_links_0-link"] .link-button-wrapper-class {
+  color: #003057;
+  font-size: 20px;
+  border-bottom-color: #003057;
+  font-weight: bold;
+}
+
+.moduleN .link-button[data-locator="moduleN_cta_links_1-link"] {
+  display: none;
+}
+
+.moduleM .promo-header .medium_text_subpromo {
+  color: #9b9b9b;
+}
+
+.moduleQ .moduleQ-header{
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 1.21;
+  letter-spacing: 0.48px;
+  color: #e2499b;
+}
+
+.moduleQ .moduleQ-promo {
+  margin: 0 auto;
+  font-size: 15px;
+  line-height: 1.36;
+  text-align: center;
+  color: #003057;
+}
+
+.moduleQ .moduleQ-promo-header {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.21;
+  letter-spacing: 0.48px;
+  color: #e2499b;
+}
+
+@media (min-width: 1200px) {
+  .moduleA .link-text[data-locator="moduleA_header_text_0_0"]{
+    font-size: 64px;
+    font-weight: 900;
+  }
+
+  .moduleA .link-text[data-locator="moduleA_header_text_0_0_1"]{
+    font-size: 28px;
+    font-weight: normal;
+  }
+
+  .moduleN .ModuleN-heading .spaced_text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #003057;
+    line-height: 1.21;
+    letter-spacing: normal;
+  }
+
+  .moduleN .link-button[data-locator="moduleN_cta_links_0-link"] {
+    position: absolute;
+    bottom: 22px;
+    right: 14%;
+  }
+
+  .moduleQ .moduleQ-header{
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 1.21;
+    letter-spacing: 0.48px;
+    color: #e2499b;
+  }
+
+  .moduleQ .moduleQ-promo {
+    width: 423px;
+    margin: 0 auto;
+    font-size: 22px;
+    line-height: 1.36;
+    text-align: center;
+    color: #003057;
+  }
+
 }
 
 @media (min-width: 1200px) {
