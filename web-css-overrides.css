@@ -54,15 +54,9 @@
   padding: 11px;
 }
 
-.moduleN .link-button[data-locator="moduleN_cta_links_0-link"] {
-  position: absolute;
-  color: #003057;
-}
-
 .moduleN .link-button[data-locator="moduleN_cta_links_1-link"] {
   display: none;
 }
-
 
 .moduleN .link-button[data-locator="moduleN_cta_links_0-link"] .link-button-wrapper-class {
   color: #003057;
