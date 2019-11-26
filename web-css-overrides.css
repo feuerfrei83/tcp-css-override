@@ -101,6 +101,8 @@
 }
 
 @media (min-width: 375px and max-width: 1199px) {
-  background-position: top;
-  background-size: contain;
+  .moduleQ.moduleQ {
+    background-position: top;
+    background-size: contain;
+  }
 }
