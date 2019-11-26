@@ -87,9 +87,13 @@
   }
 }
 
-.rewards_card_logo.rewards_card_logo .header-image, [data-locator="mprcc-tcpgymimage"], [data-locator="plcc_apply_now_modal"] .header-image {
+.rewards_card_logo.rewards_card_logo .header-image, 
+[data-locator="mprcc-tcpgymimage"], 
+[data-locator="plcc_apply_now_modal"] .header-image,
+[data-locator="plcc_time_out_modal_logo"] {
   background-image: url(https://test1.theplace.com/image/upload/v1574733531/tcp-cc_2x.png) !important;
 }
 
+.placeholder { display: none !important; }
 
   
