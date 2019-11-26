@@ -99,3 +99,8 @@
 .moduleQ.moduleQ {
   background-image: url(https://test1.theplace.com/image/upload/v1574735934/CupcakeBG.gif);
 }
+
+@media (min-width: 768px and max-width: 1199px) {
+  background-position: top;
+  background-size: contain;
+}
