@@ -70,31 +70,31 @@
 }
 
 .moduleM .promo-header .medium_text_subpromo {
-  color: #9b9b9b !impotant;
+  color: #9b9b9b !important;
 }
 
 .moduleQ .moduleQ-header{
-  font-size: 32px !impotant;
-  font-weight: 900 !impotant;
-  line-height: 1.21 !impotant;
-  letter-spacing: 0.48px !impotant;
-  color: #e2499b !impotant;
+  font-size: 32px !important;
+  font-weight: 900 !important;
+  line-height: 1.21 !important;
+  letter-spacing: 0.48px !important;
+  color: #e2499b !important;
 }
 
 .moduleQ .moduleQ-promo {
-  margin: 0 auto !impotant;
-  font-size: 15px !impotant;
-  line-height: 1.36 !impotant;
-  text-align: center !impotant;
-  color: #003057 !impotant;
+  margin: 0 auto !important;
+  font-size: 15px !important;
+  line-height: 1.36 !important;
+  text-align: center !important;
+  color: #003057 !important;
 }
 
 .moduleQ .moduleQ-promo-header {
-  font-size: 48px !impotant;
-  font-weight: 900 !impotant;
-  line-height: 1.21 !impotant;
-  letter-spacing: 0.48px !impotant;
-  color: #e2499b !impotant;
+  font-size: 48px !important;
+  font-weight: 900 !important;
+  line-height: 1.21 !important;
+  letter-spacing: 0.48px !important;
+  color: #e2499b !important;
 }
 
 @media (min-width: 1200px) {
@@ -123,20 +123,20 @@
   }
 
   .moduleQ .moduleQ-header{
-    font-size: 48px !impotant;
-    font-weight: 900 !impotant;
-    line-height: 1.21 !impotant;
-    letter-spacing: 0.48px !impotant;
-    color: #e2499b !impotant;
+    font-size: 48px !important;
+    font-weight: 900 !important;
+    line-height: 1.21 !important;
+    letter-spacing: 0.48px !important;
+    color: #e2499b !important;
   }
 
   .moduleQ.moduleQ .moduleQ-promo {
-    width: 423px !impotant;
-    margin: 0 auto !impotant;
-    font-size: 22px !impotant;
-    line-height: 1.36 !impotant;
-    text-align: center !impotant;
-    color: #003057 !impotant;
+    width: 423px !important;
+    margin: 0 auto !important;
+    font-size: 22px !important;
+    line-height: 1.36 !important;
+    text-align: center !important;
+    color: #003057 !important;
   }
 
 }
