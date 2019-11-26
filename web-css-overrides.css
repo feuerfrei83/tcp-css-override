@@ -35,8 +35,8 @@
 
 .moduleM.moduleM .imagecategory__list {
   flex-direction: column !important;
-  justify-content: flex-start;
-  margin-right: 8px;
+  justify-content: flex-start !important;
+  margin-right: 8px !important;
 }
 
 @media (min-width: 375px) and (max-width: 767px) {
