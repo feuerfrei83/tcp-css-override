@@ -87,7 +87,7 @@
   }
 }
 
-.rewards_card_logo.rewards_card_logo .header-image, [data-locator="mprcc-tcpgymimage"] {
+.rewards_card_logo.rewards_card_logo .header-image, [data-locator="mprcc-tcpgymimage"], [data-locator="plcc_apply_now_modal"] .header-image {
   background-image: url(https://test1.theplace.com/image/upload/v1574733531/tcp-cc_2x.png) !important;
 }
 
