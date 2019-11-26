@@ -87,6 +87,6 @@
   }
 }
 
-.rewards_card_logo .header-image {
-  background-image: url(https://test1.theplace.com/image/upload/v1574733531/tcp-cc_2x.png)
+.rewards_card_logo.rewards_card_logo .header-image {
+  background-image: url(https://test1.theplace.com/image/upload/v1574733531/tcp-cc_2x.png) !important;
 }
