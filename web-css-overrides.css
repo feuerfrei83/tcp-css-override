@@ -9,7 +9,7 @@
 }
 
 .moduleA .ribbon-container {
-  background: transparent url(https://test6.gymboree.com/static/images/module-s-right-ribbon.png) no-repeat right 0 !important;
+  background: transparent url(https://test6.gymboree.com/static/images/module-s-right-ribbon.png?token=tcprwd) no-repeat right 0 !important;
 }
 
 .moduleA .moduleA__ribbonBanner {
