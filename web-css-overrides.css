@@ -63,6 +63,36 @@
   display: none;
 }
 
+.moduleM .promo-header .medium_text_subpromo {
+  color: #9b9b9b;
+}
+
+.moduleQ .moduleQ-header{
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.21;
+  letter-spacing: 0.48px;
+  color: #e2499b;
+}
+
+.moduleQ .moduleQ-promo {
+  width: 423px;
+  margin: 0 auto;
+  font-size: 22px;
+  line-height: 1.36;
+  text-align: center;
+  color: #003057;
+}
+
+.moduleQ .moduleQ-promo-header {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.21;
+  letter-spacing: 0.48px;
+  color: #e2499b;
+}
+
+
 @media (min-width: 1200px) {
   .moduleM.moduleM .image-items-container-category {
     margin: 25px 18% !important;
