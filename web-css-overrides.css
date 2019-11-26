@@ -1,5 +1,5 @@
 .moduleA.moduleA .ribbon-container {
-  background-image: url(/static/images/module-s-right-ribbon.png) !important;
+  background-image: url(https://test6.gymboree.com/static/images/module-s-right-ribbon.png?token=tcprwd) !important;
 }
 
 @media (min-width: 1200px) {
