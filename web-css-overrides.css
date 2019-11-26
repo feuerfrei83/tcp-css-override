@@ -27,6 +27,42 @@
   opacity: .7;
 }
 
+
+.moduleN[data-locator="moduleN_promobanner_img"] {
+  background-color: #dbebf8;
+}
+
+.moduleN .ModuleN-heading .spaced_text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #003057;
+  line-height: 1.21;
+  letter-spacing: normal;
+}
+
+.moduleN .ModuleN-heading .link-text[data-locator="moduleN_header_text_0_1"] {
+  font-size: 18px;
+  color: #003057;
+  font-weight: normal;
+}
+
+.moduleN .moduleN-innerContent {
+  position: relative;
+}
+
+.moduleN .button-list-wrapper {
+  padding: 11px;
+}
+
+.moduleN .link-button[data-locator="moduleN_cta_links_0-link"] {
+  position: absolute;
+  color: #003057;
+}
+
+.moduleN .link-button[data-locator="moduleN_cta_links_1-link"] {
+  display: none;
+}
+
 @media (min-width: 1200px) {
   .moduleM.moduleM .image-items-container-category {
     margin: 25px 18% !important;
