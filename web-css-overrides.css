@@ -33,6 +33,12 @@
   }
 }
 
+@media (min-width: 768px and max-width: 1200px) {
+  .moduleM.moduleM .image-items-container-category {
+    margin: 25px 10% !important;
+  }
+}
+
 .moduleM.moduleM .imagecategory__list {
   flex-direction: column !important;
   justify-content: flex-start !important;
