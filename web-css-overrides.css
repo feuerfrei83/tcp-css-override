@@ -86,3 +86,7 @@
     width: 115px !important; 
   }
 }
+
+.rewards_card_logo .header-image {
+  background-image: url(https://test1.theplace.com/image/upload/v1574733531/tcp-cc_2x.png)
+}
