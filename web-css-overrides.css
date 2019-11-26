@@ -70,31 +70,31 @@
 }
 
 .moduleM .promo-header .medium_text_subpromo {
-  color: #9b9b9b;
+  color: #9b9b9b !impotant;
 }
 
 .moduleQ .moduleQ-header{
-  font-size: 32px;
-  font-weight: 900;
-  line-height: 1.21;
-  letter-spacing: 0.48px;
-  color: #e2499b;
+  font-size: 32px !impotant;
+  font-weight: 900 !impotant;
+  line-height: 1.21 !impotant;
+  letter-spacing: 0.48px !impotant;
+  color: #e2499b !impotant;
 }
 
 .moduleQ .moduleQ-promo {
-  margin: 0 auto;
-  font-size: 15px;
-  line-height: 1.36;
-  text-align: center;
-  color: #003057;
+  margin: 0 auto !impotant;
+  font-size: 15px !impotant;
+  line-height: 1.36 !impotant;
+  text-align: center !impotant;
+  color: #003057 !impotant;
 }
 
 .moduleQ .moduleQ-promo-header {
-  font-size: 48px;
-  font-weight: 900;
-  line-height: 1.21;
-  letter-spacing: 0.48px;
-  color: #e2499b;
+  font-size: 48px !impotant;
+  font-weight: 900 !impotant;
+  line-height: 1.21 !impotant;
+  letter-spacing: 0.48px !impotant;
+  color: #e2499b !impotant;
 }
 
 @media (min-width: 1200px) {
@@ -123,20 +123,20 @@
   }
 
   .moduleQ .moduleQ-header{
-    font-size: 48px;
-    font-weight: 900;
-    line-height: 1.21;
-    letter-spacing: 0.48px;
-    color: #e2499b;
+    font-size: 48px !impotant;
+    font-weight: 900 !impotant;
+    line-height: 1.21 !impotant;
+    letter-spacing: 0.48px !impotant;
+    color: #e2499b !impotant;
   }
 
-  .moduleQ .moduleQ-promo {
-    width: 423px;
-    margin: 0 auto;
-    font-size: 22px;
-    line-height: 1.36;
-    text-align: center;
-    color: #003057;
+  .moduleQ.moduleQ .moduleQ-promo {
+    width: 423px !impotant;
+    margin: 0 auto !impotant;
+    font-size: 22px !impotant;
+    line-height: 1.36 !impotant;
+    text-align: center !impotant;
+    color: #003057 !impotant;
   }
 
 }
