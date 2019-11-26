@@ -1,5 +1,30 @@
-.moduleA.moduleA .ribbon-container {
-  background-image: url(https://test6.gymboree.com/static/images/module-s-right-ribbon.png?token=tcprwd) !important;
+.moduleA .link-text[data-locator="moduleA_header_text_0_0"]{
+  font-size: 64px;
+  font-weight: 900;
+}
+
+.moduleA .link-text[data-locator="moduleA_header_text_0_0_1"]{
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.moduleA .ribbon-container {
+  background: transparent url(://static/images/module-s-right-ribbon.png) no-repeat right 0 !important;
+}
+
+.moduleA .moduleA__ribbonBanner {
+  margin-left: 30px;
+}
+
+.moduleA .banner-slide picture::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 0%, rgba(216, 216, 216, 0));
+  opacity: .7;
 }
 
 @media (min-width: 1200px) {
