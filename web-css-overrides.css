@@ -189,3 +189,5 @@
     background-size: contain;
   }
 }
+
+.tcp_drawer .tcp-nav-drawer .navigation_footer { display: none !important; } 
