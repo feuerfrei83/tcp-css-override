@@ -190,4 +190,4 @@
   }
 }
 
-.tcp-drawer #tcp-nav-drawer .navigation-footer { display: none !important; } 
+.tcp-drawer #tcp-nav-drawer .navigation-footer .footer_top_candidate_a > * > :not(.refer_a_friend_desktop, .refer_a_frient_last_colm) { display: none !important; } 
