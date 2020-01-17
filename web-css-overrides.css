@@ -1,3 +1,5 @@
-.fFdllI .product-image-container {
-  height: 260px;
+@media (max-width: 767px) {
+  .fFdllI .product-image-container {
+    height: 260px;
+  }
 }
