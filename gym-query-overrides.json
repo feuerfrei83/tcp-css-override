@@ -1,14 +1,14 @@
 {
-  entries: [
+  "entries": [
     {
-      module: "labels",
-      forceCall: true,
-      timestamp: null
+      "module": "labels",
+      "forceCall": true,
+      "timestamp": null
     },
     {
-      module: "config",
-      forceCall: false,
-      timestamp: null
+      "module": "config",
+      "forceCall": false,
+      "timestamp": null
     }
   ]
 }
