@@ -1,7 +1,7 @@
 { 
     "en_US": {   
         "entries": [
-            { "name": "labels", "timestamp": 1584117437165 },
+            { "name": "labels", "timestamp": 1584417600000 },
             { "name": "config", "timestamp": 0 },   
             { "name": "header", "timestamp": 0 },   
             { "name": "footer", "timestamp": 0 } 
@@ -9,7 +9,7 @@
     },
     "es_US": {   
         "entries": [
-            { "name": "labels", "timestamp": 1584117437165 },
+            { "name": "labels", "timestamp": 1584417600000 },
             { "name": "config", "timestamp": 0 },   
             { "name": "header", "timestamp": 0 },   
             { "name": "footer", "timestamp": 0 } 
@@ -17,7 +17,7 @@
     },
     "en_CA": {   
         "entries": [
-            { "name": "labels", "timestamp": 1584117437165 },
+            { "name": "labels", "timestamp": 1584417600000 },
             { "name": "config", "timestamp": 0 },   
             { "name": "header", "timestamp": 0 },   
             { "name": "footer", "timestamp": 0 } 
@@ -25,7 +25,7 @@
     },
     "fr_CA": {   
         "entries": [
-            { "name": "labels", "timestamp": 1584117437165 },
+            { "name": "labels", "timestamp": 1584417600000 },
             { "name": "config", "timestamp": 0 },   
             { "name": "header", "timestamp": 0 },   
             { "name": "footer", "timestamp": 0 } 
