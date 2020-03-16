@@ -1,14 +1,34 @@
-{
-  "entries": [
-    {
-      "module": "labels",
-      "forceCall": true,
-      "timestamp": null
+{ 
+    "en_US": {   
+        "entries": [
+            { "module": "labels", "timestamp": 1584117437165 },
+            { "module": "config", "timestamp": 0 },   
+            { "module": "header", "timestamp": 0 },   
+            { "module": "footer", "timestamp": 0 } 
+        ]
     },
-    {
-      "module": "config",
-      "forceCall": false,
-      "timestamp": null
+    "es_US": {   
+        "entries": [
+            { "module": "labels", "timestamp": 1584117437165 },
+            { "module": "config", "timestamp": 0 },   
+            { "module": "header", "timestamp": 0 },   
+            { "module": "footer", "timestamp": 0 } 
+        ]
+    },
+    "en_CA": {   
+        "entries": [
+            { "module": "labels", "timestamp": 1584117437165 },
+            { "module": "config", "timestamp": 0 },   
+            { "module": "header", "timestamp": 0 },   
+            { "module": "footer", "timestamp": 0 } 
+        ]
+    },
+    "fr_CA": {   
+        "entries": [
+            { "module": "labels", "timestamp": 1584117437165 },
+            { "module": "config", "timestamp": 0 },   
+            { "module": "header", "timestamp": 0 },   
+            { "module": "footer", "timestamp": 0 } 
+        ]
     }
-  ]
 }
